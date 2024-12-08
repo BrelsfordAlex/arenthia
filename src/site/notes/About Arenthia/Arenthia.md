@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-arenthia/arenthia/","tags":["Arenthia","Obasa","Oceron","Ashea","Eshya","Itera","Astaria","Laznia","Continent","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/about-arenthia/arenthia/","tags":["Arenthia","Obasa","Oceron","Ashea","Eshya","Itera","Astaria","Laznia","Continent","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Arenthia Map
