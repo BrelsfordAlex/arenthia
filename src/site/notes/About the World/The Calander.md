@@ -3,10 +3,13 @@
 ---
 
 
-# About the calander
+# About the Calender
 ---
-   Each month has 30 days, 5 weeks and 6 days of the week for a total of 180 days a year. 
-The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 days. 
+   - Each month has 30 days, 5 weeks and 6 days of the week for a total of 180 days a year. 
+   - The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 days. 
+   - Years in this world started at the year 6. Every interval of 6 there is a massive festival  called [[About the World/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]] which praises the passage of time within the 6 gods: [[About the World/The gods/Ulfera the Death God\|Ulfera]] (5 others coming soon).
+	   - the current year is ***Year 300***, since it is divisible by 6 it will hold a festival on the 6th of each month
+   
 
 ###### Dates of how long each season lasts 
 ---
