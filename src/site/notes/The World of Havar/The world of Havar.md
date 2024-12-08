@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-havar/the-world-of-havar/","tags":["Havar","gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-world-of-havar/the-world-of-havar/","tags":["Havar","gardenEntry","gardenEntry"]}
 ---
 
 # Welcome to the world of Havar
