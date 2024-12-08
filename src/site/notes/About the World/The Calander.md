@@ -89,8 +89,8 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 | <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29    | <br>30  |
 ##### Festivals during Ariahold
 ---
-:obs_star_glyph: - The Festival of Fall
-□- Festival of the Newmoon
+☆ - The Festival of Fall
+□ - Festival of the Newmoon
 🛆 - Festival of the Full Moon
 ○ - Festival of the Air Goddess
 
