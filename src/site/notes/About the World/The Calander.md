@@ -36,7 +36,7 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 | <br>25    | <br>26  | <br>27                 | 🌖<br>28 | <br>29               | :luc_circle:<br>30 |
 ##### Festivals during Hearthhold
 ---
-:obs_star: - The Festival of Spring
+✰- The Festival of Spring
 :luc_square: - Festival of the Newmoon
 :luc_triangle: - Festival of the Full Moon
 :luc_circle: - Festival of the Fire Goddess
@@ -53,7 +53,7 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 | <br>25             | <br>26  | <br>27                | 🌖<br>28         | <br>29               | <br>30  |
 ##### Festivals during Terrahold
 ---
-:obs_star: - The Festival of Summer
+✰- The Festival of Summer
 :luc_square: - Festival of the Newmoon
 :luc_triangle: - Festival of the Full Moon
 :luc_circle: - Festival of the Earth God
@@ -89,7 +89,7 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 | <br>25    | <br>26             | <br>27                | 🌖<br>28 | <br>29               | <br>30  |
 ##### Festivals during Ariahold
 ---
-:obs_star: - The Festival of Fall
+:obs_star_glyph: - The Festival of Fall
 :luc_square: - Festival of the Newmoon
 :luc_triangle: - Festival of the Full Moon
 :luc_circle: - Festival of the Air Goddess
@@ -105,9 +105,9 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 | 🌒<br>13  | <br>14  | <br>15                | <br>16   | 🌑:luc_square:<br>17 | <br>18  |
 | <br>19    | <br>20  | <br>21                | <br>22   | 🌘<br>23             | <br>24  |
 | <br>25    | <br>26  | <br>27                | 🌖<br>28 | <br>29               | <br>30  |
-##### Festivals during Hearthhold
+##### Festivals during Lamiahold
 ---
 :luc_circle: - Festival of the Spirit God
-:obs_star: - The Festival of Winter
+✰- The Festival of Winter
 :luc_square: - Festival of the Newmoon
 :luc_triangle: - Festival of the Full Moon
