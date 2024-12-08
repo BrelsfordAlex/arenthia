@@ -27,52 +27,52 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 ### Month: Hearthhold
 ---
 
-| Lunaglow  | Luna    | Lunfall                | Solglow  | Sol                  | Solfall            |
-| --------- | ------- | ---------------------- | -------- | -------------------- | ------------------ |
-| <br>1<br> | <br>2   | 🌕 :luc_triangle:<br>3 | <br>4    | <br>5                | <br>6              |
-| <br>7     | 🌔<br>8 | <br>9                  | <br>10   | <br>11               | <br>12             |
-| 🌒<br>13  | <br>14  | :obs_star:<br>15       | <br>16   | 🌑:luc_square:<br>17 | <br>18             |
-| <br>19    | <br>20  | <br>21                 | <br>22   | 🌘<br>23             | <br>24             |
-| <br>25    | <br>26  | <br>27                 | 🌖<br>28 | <br>29               | :luc_circle:<br>30 |
+| Lunaglow  | Luna    | Lunfall          | Solglow  | Sol                  | Solfall |
+| --------- | ------- | ---------------- | -------- | -------------------- | ------- |
+| <br>1<br> | <br>2   | 🌕 🛆<br>3       | <br>4    | <br>5                | <br>6   |
+| <br>7     | 🌔<br>8 | <br>9            | <br>10   | <br>11               | <br>12  |
+| 🌒<br>13  | <br>14  | :obs_star:<br>15 | <br>16   | 🌑:luc_square:<br>17 | <br>18  |
+| <br>19    | <br>20  | <br>21           | <br>22   | 🌘<br>23             | <br>24  |
+| <br>25    | <br>26  | <br>27           | 🌖<br>28 | <br>29               | ○<br>30 |
 ##### Festivals during Hearthhold
 ---
 ✰- The Festival of Spring
-:luc_square: - Festival of the Newmoon
-:luc_triangle: - Festival of the Full Moon
-:luc_circle: - Festival of the Fire Goddess
+□- Festival of the Newmoon
+🛆 - Festival of the Full Moon
+○- Festival of the Fire Goddess
 ### Month: Terrahold
 ---
 
 
-| Lunaglow           | Luna    | Lunfall               | Solglow          | Sol                  | Solfall |
-| ------------------ | ------- | --------------------- | ---------------- | -------------------- | ------- |
-| <br>1<br>          | <br>2   | 🌕:luc_triangle:<br>3 | <br>4            | <br>5                | <br>6   |
-| <br>7              | 🌔<br>8 | <br>9                 | <br>10           | <br>11               | <br>12  |
-| 🌒<br>13           | <br>14  | <br>15                | <br>16           | 🌑:luc_square:<br>17 | <br>18  |
-| :luc_circle:<br>19 | <br>20  | <br>21                | :obs_star:<br>22 | 🌘<br>23             | <br>24  |
-| <br>25             | <br>26  | <br>27                | 🌖<br>28         | <br>29               | <br>30  |
+| Lunaglow  | Luna    | Lunfall   | Solglow          | Sol       | Solfall |
+| --------- | ------- | --------- | ---------------- | --------- | ------- |
+| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4            | <br>5     | <br>6   |
+| <br>7     | 🌔<br>8 | <br>9     | <br>10           | <br>11    | <br>12  |
+| 🌒<br>13  | <br>14  | <br>15    | <br>16           | 🌑□<br>17 | <br>18  |
+| ○<br>19   | <br>20  | <br>21    | :obs_star:<br>22 | 🌘<br>23  | <br>24  |
+| <br>25    | <br>26  | <br>27    | 🌖<br>28         | <br>29    | <br>30  |
 ##### Festivals during Terrahold
 ---
 ✰- The Festival of Summer
-:luc_square: - Festival of the Newmoon
-:luc_triangle: - Festival of the Full Moon
-:luc_circle: - Festival of the Earth God
+□- Festival of the Newmoon
+🛆 - Festival of the Full Moon
+○- Festival of the Earth God
 
 ### Month: Lochhold
 ---
 
-| Lunaglow  | Luna    | Lunfall               | Solglow  | Sol                   | Solfall |
-| --------- | ------- | --------------------- | -------- | --------------------- | ------- |
-| <br>1<br> | <br>2   | 🌕:luc_triangle:<br>3 | <br>4    | <br>5                 | <br>6   |
-| <br>7     | 🌔<br>8 | <br>9                 | <br>10   | <br>11                | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15                | <br>16   | 🌑 :luc_square:<br>17 | <br>18  |
-| <br>19    | <br>20  | :luc_circle:<br>21    | <br>22   | 🌘<br>23              | <br>24  |
-| <br>25    | <br>26  | <br>27                | 🌖<br>28 | <br>29                | <br>30  |
+| Lunaglow  | Luna    | Lunfall   | Solglow  | Sol        | Solfall |
+| --------- | ------- | --------- | -------- | ---------- | ------- |
+| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4    | <br>5      | <br>6   |
+| <br>7     | 🌔<br>8 | <br>9     | <br>10   | <br>11     | <br>12  |
+| 🌒<br>13  | <br>14  | <br>15    | <br>16   | 🌑 □<br>17 | <br>18  |
+| <br>19    | <br>20  | ○<br>21   | <br>22   | 🌘<br>23   | <br>24  |
+| <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29     | <br>30  |
 ##### Festivals during Lochhold
 ---
-:luc_circle: - The Festival of the Water God
-:luc_square: - Festival of the Newmoon
-:luc_triangle: - Festival of the Full Moon
+○- The Festival of the Water God
+□- Festival of the Newmoon
+🛆 - Festival of the Full Moon
 
 
 
@@ -80,34 +80,34 @@ The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 da
 ---
 
 
-| Lunaglow  | Luna               | Lunfall               | Solglow  | Sol                  | Solfall |
-| --------- | ------------------ | --------------------- | -------- | -------------------- | ------- |
-| <br>1<br> | <br>2              | 🌕:luc_triangle:<br>3 | <br>4    | <br>5                | <br>6   |
-| <br>7     | 🌔<br>8            | :obs_star:<br>9       | <br>10   | <br>11               | <br>12  |
-| 🌒<br>13  | <br>14             | <br>15                | <br>16   | 🌑:luc_square:<br>17 | <br>18  |
-| <br>19    | :luc_circle:<br>20 | <br>21                | <br>22   | 🌘<br>23             | <br>24  |
-| <br>25    | <br>26             | <br>27                | 🌖<br>28 | <br>29               | <br>30  |
+| Lunaglow  | Luna    | Lunfall         | Solglow  | Sol       | Solfall |
+| --------- | ------- | --------------- | -------- | --------- | ------- |
+| <br>1<br> | <br>2   | 🌕🛆<br>3       | <br>4    | <br>5     | <br>6   |
+| <br>7     | 🌔<br>8 | :obs_star:<br>9 | <br>10   | <br>11    | <br>12  |
+| 🌒<br>13  | <br>14  | <br>15          | <br>16   | 🌑□<br>17 | <br>18  |
+| <br>19    | ○<br>20 | <br>21          | <br>22   | 🌘<br>23  | <br>24  |
+| <br>25    | <br>26  | <br>27          | 🌖<br>28 | <br>29    | <br>30  |
 ##### Festivals during Ariahold
 ---
 :obs_star_glyph: - The Festival of Fall
-:luc_square: - Festival of the Newmoon
-:luc_triangle: - Festival of the Full Moon
-:luc_circle: - Festival of the Air Goddess
+□- Festival of the Newmoon
+🛆 - Festival of the Full Moon
+○ - Festival of the Air Goddess
 
 ### Month: Lamiahold
 ---
 
 
-| Lunaglow  | Luna    | Lunfall               | Solglow  | Sol                  | Solfall |
-| --------- | ------- | --------------------- | -------- | -------------------- | ------- |
-| <br>1<br> | <br>2   | 🌕:luc_triangle:<br>3 | <br>4    | <br>5                | <br>6   |
-| <br>7     | 🌔<br>8 | :obs_star:<br>9       | <br>10   | <br>11               | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15                | <br>16   | 🌑:luc_square:<br>17 | <br>18  |
-| <br>19    | <br>20  | <br>21                | <br>22   | 🌘<br>23             | <br>24  |
-| <br>25    | <br>26  | <br>27                | 🌖<br>28 | <br>29               | <br>30  |
+| Lunaglow  | Luna    | Lunfall         | Solglow  | Sol       | Solfall |
+| --------- | ------- | --------------- | -------- | --------- | ------- |
+| <br>1<br> | <br>2   | 🌕🛆<br>3       | <br>4    | <br>5     | <br>6   |
+| <br>7     | 🌔<br>8 | :obs_star:<br>9 | <br>10   | <br>11    | <br>12  |
+| 🌒<br>13  | <br>14  | <br>15          | <br>16   | 🌑□<br>17 | <br>18  |
+| <br>19    | ○<br>20 | <br>21          | <br>22   | 🌘<br>23  | <br>24  |
+| <br>25    | <br>26  | <br>27          | 🌖<br>28 | <br>29    | <br>30  |
 ##### Festivals during Lamiahold
 ---
-:luc_circle: - Festival of the Spirit God
+○- Festival of the Spirit God
 ✰- The Festival of Winter
-:luc_square: - Festival of the Newmoon
-:luc_triangle: - Festival of the Full Moon
+□- Festival of the Newmoon
+🛆 - Festival of the Full Moon
