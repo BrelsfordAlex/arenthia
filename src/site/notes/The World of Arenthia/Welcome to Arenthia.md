@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/The World of Arenthia/Welcome to Arenthia/","tags":["Arenthia","Obasa","Oceron","Ashea","Eshya","Itera","Astaria","Laznia","Continent","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Welcome to Arenthia/","tags":["Arenthia","Obasa","Oceron","Ashea","Eshya","Itera","Astaria","Laznia","Continent","gardenEntry"]}
 ---
 
 
 # Welcome to the world of Arenthia 
 ---
-Arenthia is a planet that is much like Earth, Several Continents, oceans, people. Ya know the whole shabang!
-
+Arenthia is a planet that is much like Earth, Several Continents, oceans, people. 
 #### The Gods and what they Represent
 ---
 Arenthia holds 6 gods,
