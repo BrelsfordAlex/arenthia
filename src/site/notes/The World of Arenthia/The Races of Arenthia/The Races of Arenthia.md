@@ -1,0 +1,66 @@
+---
+{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-races-of-arenthia/the-races-of-arenthia/","tags":["Races"]}
+---
+
+*This list is of all the pureblooded species but each individual one (Besides the ones marked with a ☆  can be halfbreeds*
+
+- Elves
+	- High Elves 
+		- From [[Nations of Arenthia/Oceron\|Yaa Serine]] Usually
+		- Decended from the life tree
+	- Dark Elves
+		- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+		- Decended from [[The World of Arenthia/The gods/Rania the Wind Mother\|Rania]] and [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]]
+- Dwarves
+	- These species are all considered Dwarves
+	- They all like to live in colder, more underground climates
+	- Usually from [[Nations of Arenthia/Obasa\|Obasa]]
+		- Dwarves
+		- Gnomes
+		- Goblins
+		- Gremlins
+- Vampires
+	-  From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+- Dragons
+	- All Species of dragons in D&D can be found across Havar
+		- [[The World of Arenthia/Welcome to Arenthia\|Welcome to Arenthia]]'s Main dragon species from this list are  
+		    - Faerie dragon
+		    - Metallic dragon
+		    - Moon dragon
+		    - Sea serpent
+		    - Shadow dragon
+		    - Sun dragon
+	- List of Custom dragon races
+		- Necrodragons
+			- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+		- 
+- Humans
+- Fae
+	- Usually resides in [[Nations of Arenthia/Itera\|Itera]] 
+	- Dark Fae are from [[Nations of Arenthia/Itera\|Death's Gate]]
+- [[The World of Arenthia/The Races of Arenthia/Custom Races/The Kor\|The Kor]] (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
+- Orcs
+- Druids / Satyrs / Dryads/ Faun
+- Centaurs☆ 
+- Ghouls
+	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+- Giants
+	- [[Nations of Arenthia/Ashea\|Ashea]]
+- Gnolls
+- Halflings
+- Kobolds
+- Mermen
+- Minotaurs☆ 
+- Trolls
+- Zombies
+	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+- Harpies
+	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+- Treemen
+	-  Usually resides in [[Nations of Arenthia/Itera\|Itera]] or [[Nations of Arenthia/Oceron\|Oceron]] 
+- Skeletons
+	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+- Djinn/Jinn/Genies☆ 
+	- From [[Nations of Arenthia/Eshya\|Eshya]] usually
+- Wraiths☆ 
+	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
