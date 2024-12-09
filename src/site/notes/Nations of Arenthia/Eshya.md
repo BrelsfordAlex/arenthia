@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/eshya/","tags":["Arenthia","Eshya"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Eshya/","tags":["Arenthia","Eshya"]}
 ---
 
 # The map of Eshya

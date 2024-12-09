@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/the-life-tree/"}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/the Life Tree/"}
 ---
 
 this is where information about the Lifetree will be put 

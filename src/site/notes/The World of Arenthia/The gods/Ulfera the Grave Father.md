@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-gods/ulfera-the-grave-father/","tags":["Diety","Spirit","Death"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Ulfera the Grave Father/","tags":["Diety","Spirit","Death"]}
 ---
 
 # Basic Information about Ulfera

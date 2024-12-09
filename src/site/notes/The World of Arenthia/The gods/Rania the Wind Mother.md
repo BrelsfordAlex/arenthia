@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-gods/rania-the-wind-mother/","tags":["Diety","Air","Life"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Rania the Wind Mother/","tags":["Diety","Air","Life"]}
 ---
 
 # Basic information about Rania

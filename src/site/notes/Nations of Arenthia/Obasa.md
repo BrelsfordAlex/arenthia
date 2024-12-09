@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/obasa/","tags":["Arenthia","Obasa"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Obasa/","tags":["Arenthia","Obasa"]}
 ---
 
 # The map of Obasa

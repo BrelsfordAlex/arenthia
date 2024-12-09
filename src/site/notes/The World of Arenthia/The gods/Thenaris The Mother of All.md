@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-gods/thenaris-the-mother-of-all/","tags":["Thenaris","Diety","Life"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Thenaris The Mother of All/","tags":["Thenaris","Diety","Life"]}
 ---
 
 # About Thenaris The Mother of All

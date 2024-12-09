@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-gods/lycus-the-harvest-king/","tags":["Diety","Earth"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Lycus The Harvest King/","tags":["Diety","Earth"]}
 ---
 
 # About Lycus The Harvest King 

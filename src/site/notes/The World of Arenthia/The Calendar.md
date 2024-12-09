@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-calendar/","tags":["Calander","Time","Calendar"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The Calendar/","tags":["Calander","Time","Calendar"]}
 ---
 
 

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/festivals/diety-festicals/festival-of-the-spirit-god/","tags":["Festivals","Diety","Spirit","Calander"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Festivals/Diety Festicals/Festival of the Spirit God/","tags":["Festivals","Diety","Spirit","Calander"]}
 ---
 

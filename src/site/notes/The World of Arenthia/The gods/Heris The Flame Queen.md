@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-gods/heris-the-flame-queen/","tags":["Heris","Diety","Fire"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Heris The Flame Queen/","tags":["Heris","Diety","Fire"]}
 ---
 
 # About Heris The Flame Queen

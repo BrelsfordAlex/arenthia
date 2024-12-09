@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/festivals/seasonal-festivals/festival-of-winter/","tags":["Festivals","Seasons","Spring","Calander"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Festivals/Seasonal Festivals/Festival of Winter/","tags":["Festivals","Seasons","Spring","Calander"]}
 ---

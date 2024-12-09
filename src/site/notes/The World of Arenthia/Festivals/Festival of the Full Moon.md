@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/festivals/festival-of-the-full-moon/","tags":["Festivals","Full Moon","Moon Cycle","Calander"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Festivals/Festival of the Full Moon/","tags":["Festivals","Full Moon","Moon Cycle","Calander"]}
 ---

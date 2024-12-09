@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-gods/zephus-the-abyssal-sovereign/","tags":["Diety","Water"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Zephus The Abyssal Sovereign/","tags":["Diety","Water"]}
 ---
 
 # About Zephus The Abyssal Sovereign 

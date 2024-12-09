@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/ashea/","tags":["Arenthia","Ashea"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Ashea/","tags":["Arenthia","Ashea"]}
 ---
 
 # The map of Ashea

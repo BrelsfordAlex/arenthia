@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/tags/","tags":["Arenthia",null]}
+{"dg-publish":true,"permalink":"/z Templates/Tags/","tags":["Arenthia",null]}
 ---
 
 

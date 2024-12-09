@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/festivals/diety-festicals/festival-of-the-water-god/","tags":["Festivals","Diety","Water","Calander"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Festivals/Diety Festicals/Festival of the Water God/","tags":["Festivals","Diety","Water","Calander"]}
 ---

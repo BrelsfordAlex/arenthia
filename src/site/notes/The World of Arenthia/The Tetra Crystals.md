@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/the-tetra-crystals/","tags":["Teta"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/The Tetra Crystals/","tags":["Teta"]}
 ---
 
 # About the Crystals of Tetra
 ---
-The blue crystals come from [[Nations of Arenthia/the Life Tree\|the Life Tree]], when parts of a giant crystal are taken off over time that bit tends to grow back and the crystal grows larger.  When [[Nations of Arenthia/the Life Tree\|the Life Tree]] first sprouted these blue crystals appeared all over the world of [[Arenthia\|Arenthia]] and out from these crystals came [[The World of Arenthia/The Races of Arenthia/Custom Races/The Kor\|The Kor]].
+The blue crystals come from [[Nations of Arenthia/the Life Tree\|the Life Tree]], when parts of a giant crystal are taken off over time that bit tends to grow back and the crystal grows larger.  When [[Nations of Arenthia/the Life Tree\|the Life Tree]] first sprouted these blue crystals appeared all over the world of [[Arenthia\|Arenthia]] and out from these crystals came [[The World of Arenthia/About the Species on Arenthia/Custom Races/The Kor\|The Kor]].
 
 The Kor have an innate connection to these crystals, sometimes even being guided to live near clusters of them. If a Kor cannot sense the crystals call to them, they tend to be guided to The Life Tree and they life at the base of it in [[Nations of Arenthia/Oceron\|Oceron]].
 

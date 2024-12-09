@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/itera/","tags":["Arenthia","Itera"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Itera/","tags":["Arenthia","Itera"]}
 ---
 
 # The map of Itera

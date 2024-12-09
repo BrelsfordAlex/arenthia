@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/oceron/","tags":["Arenthia","Oceron"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Oceron/","tags":["Arenthia","Oceron"]}
 ---
 
 # The map of Oceron

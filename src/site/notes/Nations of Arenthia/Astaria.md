@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/astaria/","tags":["Arenthia","Astaria"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Astaria/","tags":["Arenthia","Astaria"]}
 ---
 
 # The map of Astaria

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-of-arenthia/government-information/the-order-of-arenthia/"}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Government Information/the Order of Arenthia/"}
 ---
 
 

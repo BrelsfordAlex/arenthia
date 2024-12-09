@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations-of-arenthia/laznia/","tags":["Arenthia","Laznia"]}
+{"dg-publish":true,"permalink":"/Nations of Arenthia/Laznia/","tags":["Arenthia","Laznia"]}
 ---
 
 # The map of Laznia
