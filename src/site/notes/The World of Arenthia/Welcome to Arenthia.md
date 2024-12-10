@@ -3,7 +3,7 @@
 ---
 
 
-# Welcome to the world of Arenthia 
+# Welcome to the world of Arenthia  
 ---
 Arenthia is a planet that is much like Earth, Several Continents, oceans, people. 
 #### The Gods and what they Represent

@@ -38,7 +38,7 @@
 - Fae
 	- Usually resides in [[Nations of Arenthia/Itera\|Itera]] 
 	- Dark Fae are from [[Nations of Arenthia/Itera\|Death's Gate]]
-- [[The World of Arenthia/About the Species on Arenthia/Custom Races/The Kor\|The Kor]] (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
+- [[The World of Arenthia/About the Species on Arenthia/The Kor\|The Kor]] (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
 - Orcs
 - Druids / Satyrs / Dryads/ Faun
 - Centaurs☆ 
@@ -49,7 +49,10 @@
 - Gnolls
 - Halflings
 - Kobolds
-- Mermen
+- Mermen/Mermaids
+- Kuo-Toa 
+- Marid 
+- The Naga
 - Minotaurs☆ 
 - Trolls
 - Zombies
