@@ -5,76 +5,81 @@
 
 # About the Calendar
 ---
-   - Each month has 30 days, 5 weeks and 6 days of the week for a total of 180 days a year. 
-   - The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 45 days. 
+   - Each month has 30 days, 6 weeks and 6 days of the week for a total of 216 days a year. 
+   - The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 54 days. 
    - Years in this world started at the year 6. Every interval of 6 there is a massive festival  called [[The World of Arenthia/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]] which praises the passage of time within the 6 gods: [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera the Grave Father]], [[The World of Arenthia/The gods/Heris The Flame Queen\|Heris The Flame Queen]], [[The World of Arenthia/The gods/Lycus The Harvest King\|Lycus The Harvest King]], [[The World of Arenthia/The gods/Rania the Wind Mother\|Rania the Wind Mother]], [[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus The Abyssal Sovereign]] and [[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris The Mother of All]]
-	   - the current year is ***Year 300***, since it is divisible by 6 it will hold a festival on the 6th of each month which also marks the 50th cycle of the passage of the 6
+	   - the current year is ***Year 30000***, since it is divisible by 6 it will hold a festival on the 6th of each month which also marks the 5000th cycle of the passage of the 6
    
 
 ###### Dates of how long each season lasts 
 ---
-**Spring** would last from the 1st of Hearthhold to the 15th of Terra hold
-**Summer** would last from the 16th of Terrahold to the 30th of Ariahold
-**Fall**  would last from the 1nd of Ariahold to the 15th of Ignishold
-**Winter** would last from the 16th of Ignishold to the end of Lamiahold
+**Spring** would last from the 1st of Hearthhold to the 18th of Terra hold
+**Summer** would last from the 19th of Terrahold to the 36th of Ariahold
+**Fall**  would last from the 1nd of Ariahold to the 18th of Ignishold
+**Winter** would last from the 19th of Ignishold to the end of Lamiahold
 ###### The Moon Cycle
 ---
-**Full Moon** from the 1st to the 5th. The height is at the 3rd
-**Waxing Gibbous** from the 6th to the 10th. The height is at the 8th
-**Waxing Crecent** from the 11th to the 15th. the height is at the 13th
-**Newmoon** From the 15th to the 20th . The height is at the 17th.
-**Waning Crecent** from the 21st to the 25th. the height is at the 23rd
-**Waning Gibbous** from the 26th to the 30th. the height is at the 28th.
+**Full Moon** from the 1st to the 6th. The height is at the 3rd
+**Waxing Gibbous** from the 7th to the 12th. The height is at the 9th
+**Waxing Crecent** from the 13th to the 18th. the height is at the 15th
+**Newmoon** From the 19th to the 24th . The height is at the 21th.
+**Waning Crecent** from the 25st to the 30th. the height is at the 27rd
+**Waning Gibbous** from the 31th to the 36th. the height is at the 33th.
+
 
 ### Month: Hearthhold
 ---
 
-| Lunaglow  | Luna    | Lunfall    | Solglow  | Sol       | Solfall |
-| --------- | ------- | ---------- | -------- | --------- | ------- |
-| <br>1<br> | <br>2   | 🌕 🛆<br>3 | <br>4    | <br>5     | <br>6   |
-| <br>7     | 🌔<br>8 | <br>9      | <br>10   | <br>11    | <br>12  |
-| 🌒<br>13  | <br>14  | ☆<br>15    | <br>16   | 🌑▢<br>17 | <br>18  |
-| <br>19    | <br>20  | <br>21     | <br>22   | 🌘<br>23  | <br>24  |
-| <br>25    | <br>26  | <br>27     | 🌖<br>28 | <br>29    | ○<br>30 |
+| Lunaglow  | Luna   | Lunfall  | Solglow | Sol    | Solfall |
+| --------- | ------ | -------- | ------- | ------ | ------- |
+| <br>1<br> | <br>2  | 🌕 <br>3 | <br>4   | <br>5  | ○<br>6  |
+| <br>7     | <br>8  | 🌔<br>9  | <br>10  | <br>11 | <br>12  |
+| <br>13    | <br>14 | 🌒<br>15 | <br>16  | <br>17 | <br>18  |
+| <br>19    | <br>20 | 🌑<br>21 | <br>22  | <br>23 | <br>24  |
+| <br>25    | <br>26 | 🌘<br>27 | <br>28  | <br>29 | <br>30  |
+| <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | <br>36  |
 ##### Festivals during Hearthhold
 ---
 ☆- The Festival of Spring
-▢- Festival of the Newmoon
-🛆 - Festival of the Full Moon
+🌑 - Festival of the Newmoon
+🌕 - Festival of the Full Moon
 ○- Festival of the Life Goddess
 ### Month: Terrahold
 ---
 
 
-| Lunaglow  | Luna    | Lunfall   | Solglow  | Sol       | Solfall |
-| --------- | ------- | --------- | -------- | --------- | ------- |
-| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4    | <br>5     | <br>6   |
-| <br>7     | 🌔<br>8 | <br>9     | <br>10   | <br>11    | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15    | <br>16   | 🌑▢<br>17 | <br>18  |
-| ○<br>19   | <br>20  | <br>21    | ☆<br>22  | 🌘<br>23  | <br>24  |
-| <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29    | <br>30  |
+| Lunaglow  | Luna   | Lunfall  | Solglow | Sol    | Solfall |
+| --------- | ------ | -------- | ------- | ------ | ------- |
+| <br>1<br> | <br>2  | 🌕<br>3  | <br>4   | <br>5  | <br>6   |
+| <br>7     | <br>8  | ☆🌔<br>9 | <br>10  | <br>11 | ○<br>12 |
+| <br>13    | <br>14 | 🌒<br>15 | <br>16  | <br>17 | <br>18  |
+| <br>19    | <br>20 | 🌑<br>21 | <br>22  | <br>23 | <br>24  |
+| <br>25    | <br>26 | 🌘<br>27 | <br>28  | <br>29 | <br>30  |
+| <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | <br>36  |
 ##### Festivals during Terrahold
 ---
-☆- The Festival of Summer
-▢- Festival of the Newmoon
-🛆 - Festival of the Full Moon
+☆- The Festival of Spring
+🌑- Festival of the Newmoon
+🌕- Festival of the Full Moon
 ○- Festival of the Earth God
 
 ### Month: Lochhold
 ---
 
-| Lunaglow  | Luna    | Lunfall   | Solglow  | Sol        | Solfall |
-| --------- | ------- | --------- | -------- | ---------- | ------- |
-| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4    | <br>5      | <br>6   |
-| <br>7     | 🌔<br>8 | <br>9     | <br>10   | <br>11     | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15    | <br>16   | 🌑 ▢<br>17 | <br>18  |
-| <br>19    | <br>20  | ○<br>21   | <br>22   | 🌘<br>23   | <br>24  |
-| <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29     | <br>30  |
+| Lunaglow  | Luna   | Lunfall  | Solglow | Sol    | Solfall |
+| --------- | ------ | -------- | ------- | ------ | ------- |
+| <br>1<br> | <br>2  | 🌕<br>3  | <br>4   | <br>5  | <br>6   |
+| <br>7     | <br>8  | ☆🌔<br>9 | <br>10  | <br>11 | <br>12  |
+| <br>13    | <br>14 | 🌒<br>15 | <br>16  | <br>17 | ○<br>18 |
+| <br>19    | <br>20 | 🌑<br>21 | <br>22  | <br>23 | <br>24  |
+| <br>25    | <br>26 | 🌘<br>27 | <br>28  | <br>29 | <br>30  |
+| <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | <br>36  |
 ##### Festivals during Lochhold
 ---
+☆- The Festival of Summer
 ○- The Festival of the Water God
-▢- Festival of the Newmoon
-🛆 - Festival of the Full Moon
+🌑- Festival of the Newmoon
+🌕 - Festival of the Full Moon
 
 
 
@@ -82,18 +87,19 @@
 ---
 
 
-| Lunaglow  | Luna    | Lunfall   | Solglow  | Sol       | Solfall |
-| --------- | ------- | --------- | -------- | --------- | ------- |
-| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4    | <br>5     | <br>6   |
-| <br>7     | 🌔<br>8 | <br>9     | <br>10   | <br>11    | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15    | <br>16   | 🌑▢<br>17 | <br>18  |
-| <br>19    | ○<br>20 | <br>21    | ☆<br>22  | 🌘<br>23  | <br>24  |
-| <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29    | <br>30  |
+| Lunaglow  | Luna   | Lunfall  | Solglow | Sol    | Solfall |
+| --------- | ------ | -------- | ------- | ------ | ------- |
+| <br>1<br> | <br>2  | 🌕<br>3  | <br>4   | <br>5  | <br>6   |
+| <br>7     | <br>8  | 🌔<br>9  | <br>10  | <br>11 | <br>12  |
+| <br>13    | <br>14 | 🌒<br>15 | <br>16  | <br>17 | <br>18  |
+| <br>19    | <br>20 | 🌑<br>21 | <br>22  | <br>23 | ○<br>24 |
+| <br>25    | <br>26 | 🌘<br>27 | <br>28  | <br>29 | <br>30  |
+| <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | <br>36  |
 ##### Festivals during Ariahold
 ---
-☆ - The Festival of Fall
-▢ - Festival of the Newmoon
-🛆 - Festival of the Full Moon
+
+🌑 - Festival of the Newmoon
+🌕 - Festival of the Full Moon
 ○ - Festival of the Air Goddess
 ##### About Ariahold
 ---
@@ -102,18 +108,19 @@
 ---
 
 
-| Lunaglow  | Luna    | Lunfall   | Solglow  | Sol       | Solfall |
-| --------- | ------- | --------- | -------- | --------- | ------- |
-| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4    | <br>5     | <br>6   |
-| <br>7     | 🌔<br>8 | <br>9     | <br>10   | <br>11    | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15    | <br>16   | 🌑▢<br>17 | <br>18  |
-| <br>19    | ○<br>20 | <br>21    | <br>22   | 🌘<br>23  | <br>24  |
-| <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29    | <br>30  |
+| Lunaglow  | Luna   | Lunfall  | Solglow | Sol    | Solfall |
+| --------- | ------ | -------- | ------- | ------ | ------- |
+| <br>1<br> | <br>2  | 🌕<br>3  | <br>4   | <br>5  | <br>6   |
+| <br>7     | <br>8  | ☆🌔<br>9 | <br>10  | <br>11 | <br>12  |
+| <br>13    | <br>14 | 🌒<br>15 | <br>16  | <br>17 | <br>18  |
+| <br>19    | <br>20 | 🌑<br>21 | <br>22  | <br>23 | <br>24  |
+| <br>25    | <br>26 | 🌘<br>27 | <br>28  | <br>29 | ○<br>30 |
+| <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | <br>36  |
 ##### Festivals during Ignishold
 ---
-
-▢ - Festival of the Newmoon
-🛆 - Festival of the Full Moon
+☆-The Festival of Fall
+🌑 - Festival of the Newmoon
+🌕 - Festival of the Full Moon
 ○ - Festival of the Fire Goddess
 ##### About Ignishold
 ---
@@ -122,19 +129,20 @@
 ---
 
 
-| Lunaglow  | Luna    | Lunfall   | Solglow  | Sol       | Solfall |
-| --------- | ------- | --------- | -------- | --------- | ------- |
-| <br>1<br> | <br>2   | 🌕🛆<br>3 | <br>4    | <br>5     | <br>6   |
-| <br>7     | 🌔<br>8 | ☆<br>9    | <br>10   | <br>11    | <br>12  |
-| 🌒<br>13  | <br>14  | <br>15    | <br>16   | 🌑▢<br>17 | <br>18  |
-| <br>19    | ○<br>20 | <br>21    | <br>22   | 🌘<br>23  | <br>24  |
-| <br>25    | <br>26  | <br>27    | 🌖<br>28 | <br>29    | <br>30  |
+| Lunaglow  | Luna   | Lunfall  | Solglow | Sol    | Solfall |
+| --------- | ------ | -------- | ------- | ------ | ------- |
+| <br>1<br> | <br>2  | 🌕<br>3  | <br>4   | <br>5  | <br>6   |
+| <br>7     | <br>8  | ☆🌔<br>9 | <br>10  | <br>11 | <br>12  |
+| <br>13    | <br>14 | 🌒<br>15 | <br>16  | <br>17 | <br>18  |
+| <br>19    | <br>20 | 🌑<br>21 | <br>22  | <br>23 | <br>24  |
+| <br>25    | <br>26 | 🌘<br>27 | <br>28  | <br>29 | <br>30  |
+| <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | ○<br>36 |
 ##### Festivals during Lamiahold
 ---
 ○- Festival of the Spirit God
 ☆- The Festival of Winter
-▢- Festival of the Newmoon
-🛆 - Festival of the Full Moon
+🌑- Festival of the Newmoon
+🌕 - Festival of the Full Moon
 
 ##### About Lamiahold
 ---
