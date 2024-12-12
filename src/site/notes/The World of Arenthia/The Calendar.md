@@ -40,7 +40,7 @@
 | <br>31    | <br>32 | 🌖<br>33 | <br>34  | <br>35 | <br>36  |
 ##### Festivals during Hearthhold
 ---
-☆- The Festival of Spring
+
 🌑 - Festival of the Newmoon
 🌕 - Festival of the Full Moon
 ○- Festival of the Life Goddess
