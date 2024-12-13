@@ -34,6 +34,15 @@ One of the common phrases of when honoring the dead is "Honor Thy Grave Father. 
 
 When someone goes to the gravesite to honor their past loved ones, they will place a piece of paper with that person's name inside the bowl. If the paper catches fire; the person is safe inside the Deadlands, if the paper rips into pieces the person is still traveling, and if the paper isn't touched then their state of being is unknown to the Grave Father. 
 
+2. **Speakers for the Dead:**
+    
+    - When someone dies, three followers of Ulfera—known as **Speakers for the Dead**—guide the deceased’s body to the Deadlands:
+        - **The Deathseer:** Represents the person’s transition from life to death.
+        - **The Scales:** Evaluates the deeds and balance of the deceased’s life.
+        - **The Mind:** Preserves the memories and essence of the individual.
+3. **Funerary Rites:**
+    
+    - Loved ones hold a funeral while the body is guided to Laznia or Astaria. Gravestones are placed as markers of remembrance, even if the body is no longer present.
 ##### When Someone Dies
 When someone dies what happens is their loved ones are approached by the followers of Ulfera. The followers of Ulfera always come in 3s. The people that show up are called [[Speakers for the dead\|Speakers for the dead]].  One representing the person's death(the Deathseer), one representing their deeds in life(The Scales), and one representing their memories(The Mind), 
 ![](https://imgcdn.stablediffusionweb.com/2024/4/18/30b6d836-d66f-49de-adc3-84ac5bc175f3.jpg)
