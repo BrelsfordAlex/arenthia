@@ -26,6 +26,7 @@ These Centaurs are very welcoming and kind; though if they perceive anyone as ho
 ###### the history of Giraffe Centaurs
 There are rumors among the centaurs that the Giraffe Centaurs existed before the tree; though the records of then are long sealed away. The oldest of these Centaurs is about 15,000, with its other half being an elf. Her name is [[Yania the Wise One\|Yania the Wise One]] she is a nomad that wanders through [[Nations of Arenthia/Eshya\|Eshya]] and [[Nations of Arenthia/Ashea\|Ashea]]. Many centaurs seek her help when they are having issues. 
 
+────────────────────────────────────
 #### Normal Horse Centaurs
 ###### What they could look like 
 ![dhjd9ka-677d645f-2fc5-4105-81ed-2748ab007228.jpg](/img/user/Images/dhjd9ka-677d645f-2fc5-4105-81ed-2748ab007228.jpg) (This is a Centaur who goes by the name Glow)
@@ -36,7 +37,7 @@ There are rumors among the centaurs that the Giraffe Centaurs existed before the
 ###### About the Horse Centaurs
 These are just the atypical centaurs you will find about almost all the continents. They can be seen even in busy capitals helping about with however they can. The other half can be any other species in the [[The World of Arenthia/About the Species on Arenthia/The Species of Arenthia\|Usual Species (Traditional)]] in the species document. Some are seen as guides and even Mercenaries. These are the most common Centaurs you will find in Arenthia
 
-
+────────────────────────────────────────────────
 #### Zebra Centaurs
 ###### What they could look like
 ![tumblr_ov6wdbIMzN1w2uq77o1_1280.jpg](/img/user/Images/tumblr_ov6wdbIMzN1w2uq77o1_1280.jpg)
@@ -52,6 +53,9 @@ The Zebra Centaurs follow the grazing patterns of the Giraffe Centaurs, by occup
 
 These centaurs are known for wandering off and being kind to strangers however, so if you see one approach do not be scared that is just them being curious. If you are seen as a threat however the herd will stampede on you. 
 
+These Centaurs have the stripes of a Zebra. 
+
+────────────────────────────────────────────────
 #### Deer/Elk Centaurs
 ###### What they could look like
 ![c96d8ee7b1229942d83d5f831ef23898.jpg](/img/user/Images/c96d8ee7b1229942d83d5f831ef23898.jpg)

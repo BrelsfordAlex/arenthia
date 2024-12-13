@@ -51,7 +51,7 @@
 	- Not like traditional Vampires
 - [[The World of Arenthia/About the Species on Arenthia/The Kor\|The Kor]] / Fell-Kor (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
 - Druids / Satyrs / Dryads/ Faun
-- Centaurs 
+- [[The World of Arenthia/About the Species on Arenthia/Centaurs\|Centaurs]]
 - Ghouls
 	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
 - Kuo-Toa 
