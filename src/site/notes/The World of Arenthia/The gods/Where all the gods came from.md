@@ -13,4 +13,10 @@ Nothing is really known about what happened before [[Nations of Arenthia/the Lif
 ---
 There are rumors that the places the gods came from were the original continents but the gods refuse to acknoladge that. 
 When the tree sprouted so did [[The World of Arenthia/About the Species on Arenthia/The Kor\|The Kor]]who came from [[The World of Arenthia/The Tetra Crystals\|The Tetra Crystals]] and over time the old races (Halflings, Dwarves, Gnolls, Gremlins, Trolls, and Orcs mainly) were killed in the before the tree times. The world also over time developed new species not seen in the old world,  (Seen in [[The World of Arenthia/About the Species on Arenthia/The Species of Arenthia\|The Species of Arenthia]]). 
-Though there is the Warforged that still exist but those who are made of metal are seen as godless and from the old world while thise made of wood  are seen as one with the gods 
+
+---
+# Other Info
+---
+Though there is the Warforged that still exist but those who are made of metal are seen as godless and from the old world while those made of wood  are seen as one with the gods 
+
+the [[The World of Arenthia/About the Species on Arenthia/Centaurs\|Centaurs]] are not from the old world but contain magic FROM that world. 

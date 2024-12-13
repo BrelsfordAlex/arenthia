@@ -6,7 +6,8 @@
 
 # About Zephus The Abyssal Sovereign 
 ---
-**Holy Land Location:** [[Nations of Arenthia/Obasa\|Obasa]]
+**Pronunciation:** Zeh-f-us
+**Holy Land Location:** [[Nations of Arenthia/Itera\|Itera]]
 **Who Worships him:** [[The World of Arenthia/About the Species on Arenthia/The Species of Arenthia\| The Mermen/Mermaids, The Kuo-Toa, The Marid, The Naga, Harpies, and some Humans]]
 **Month he represents:** [[The World of Arenthia/The Calendar\|Lochhold]]
 **[[The World of Arenthia/Festivals/Diety Festicals/Festival of the Earth God\|His Festival]]:** on the 18th of Lochhold
@@ -17,7 +18,7 @@
 ---
 # How Zephus is Worshiped
 ---
-Zephus is worshiped by many people who live near or on the sea. It is said he comes from [[Nations of Arenthia/Obasa\|Obasa]]
+Zephus is worshiped by many people who live near or on the sea. It is said he comes from [[Nations of Arenthia/Itera\|Itera]]
 When someone wants to worship him they must find a body of water that houses a temple to Zephus. 
 ![](https://img-v3.deepdreamgenerator.com/3768434/md_q8uzac_f29d0c27fb8c5a7dae5f596fd3388111d802ecc8.jpg)
 inside the temple is a bowl with pure white water that never runs out, at the bottom of the bowl is this sigil. 

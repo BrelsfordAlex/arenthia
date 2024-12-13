@@ -6,6 +6,7 @@
 
 # Basic Information about Ulfera
 ----
+**Pronounciation:** Uhl-fair-ah
 **Holy Land Location:** [[Nations of Arenthia/Laznia\|Laznia]]
 **Who Worships him:** Anyone considered *dead* or even *undead*. As well as anyone when someone close to them dies.
 **Month he represents:** [[The World of Arenthia/The Calendar\|Lamiahold]]
