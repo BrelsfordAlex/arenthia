@@ -8,7 +8,7 @@
    - Each month has 30 days, 6 weeks and 6 days of the week for a total of 216 days a year. 
    - The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 54 days. 
    - Years in this world started at the year 6. Every interval of 6 there is a massive festival  called [[The World of Arenthia/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]] which praises the passage of time within the 6 gods: [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera the Grave Father]], [[The World of Arenthia/The gods/Heris The Flame Queen\|Heris The Flame Queen]], [[The World of Arenthia/The gods/Lycus The Harvest King\|Lycus The Harvest King]], [[The World of Arenthia/The gods/Rania the Wind Mother\|Rania the Wind Mother]], [[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus The Abyssal Sovereign]] and [[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris The Mother of All]]
-	   - the current year is ***Year 30000***, since it is divisible by 6 it will hold a festival on the 6th of each month which also marks the 5000th cycle of the passage of the 6
+	   - the current year is ***Year 30,000***, since it is divisible by 6 it will hold a festival on the 6th of each month which also marks the 5000th cycle of the passage of the 6
    
 
 ###### Dates of how long each season lasts 

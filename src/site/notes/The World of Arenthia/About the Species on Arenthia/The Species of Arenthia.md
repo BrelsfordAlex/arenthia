@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/The World of Arenthia/About the Species on Arenthia/The Species of Arenthia/","tags":["Races"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/About the Species on Arenthia/The Species of Arenthia/","tags":["Species"]}
 ---
 
 *This list is of all the pureblooded species but each individual one (Besides the ones marked with a ☆  can be halfbreeds*
 
-###### Usual Races (Traditional)
+###### Usual Species (Traditional)
 - The Underground
 	- These species are all considered Dwarves
 	- They all like to live in colder, more underground climates
@@ -51,7 +51,7 @@
 	- Not like traditional Vampires
 - [[The World of Arenthia/About the Species on Arenthia/The Kor\|The Kor]] / Fell-Kor (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
 - Druids / Satyrs / Dryads/ Faun
-- Centaurs☆ 
+- Centaurs 
 - Ghouls
 	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
 - Kuo-Toa 
