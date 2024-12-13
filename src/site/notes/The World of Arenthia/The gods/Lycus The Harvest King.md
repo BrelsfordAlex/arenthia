@@ -15,7 +15,9 @@
 ---
 # How Lycus is Worshiped
 ---
+Lycus is worshiped by offering a portion of every harvest every fall. Every Farmer, every worshipper in each continent bring their offerings to his temple and place them there. Lycus does not interact with the people but the offerings are taken and in the next planting season, those seeds will bring 2x the yield as last year. 
 
+Lycus is often seen in [[Nations of Arenthia/Obasa\|Obasa]] possibly tending to [[The World of Arenthia/The gods/Heris The Flame Queen\|Heris]] with her injury. 
 
 ---
 # His Temple
