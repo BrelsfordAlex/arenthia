@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/The World of Arenthia/Government Information/Laws Placed/"}
 ---
 
-Here’s the revised list of laws enacted by the **[[The World of Arenthia/Government Information/the Order of Arenthia\|the Order of Arenthia]]**, with three additional laws added to reflect further governance and cooperation across the nations:
 
 ---
 

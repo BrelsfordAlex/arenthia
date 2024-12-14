@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/The World of Arenthia/Government Information/the Order of Arenthia/"}
 ---
 
-Here’s an expanded version of your description of the **Order of Arenthia**:
 
 ---
 
@@ -51,7 +50,7 @@ The following nations are members of the Order, each bringing their unique persp
 
 The Order was founded in the year **2400**, a turning point in Arenthia’s history. The years leading up to its formation were marked by relentless wars and conflicts that decimated nations and left scars on the land and its people.  
 
-Recognizing the futility of continuous fighting, the top officials and leaders of the six major nations convened in **Itera**, home of the Flame Queen Heris, whose symbolic warmth and fire were seen as an omen of renewal.  
+Recognizing the futility of continuous fighting, the top officials and leaders of the six major nations convened in **[[Nations of Arenthia/Itera\|Itera]]**, home of the Flame Queen Heris, whose symbolic warmth and fire were seen as an omen of renewal.  
 
 At this first meeting, a **Charter of Unity** was drafted, outlining the principles of the Order:  
 - Commitment to peace.  
@@ -85,5 +84,3 @@ Since its creation, the Order of Arenthia has:
 - Promoted the inclusion of marginalized groups, ensuring that even smaller communities have a voice in global decisions.
 
 ---
-
-Would you like details on how the nations interact within the Order, notable historical events influenced by the Order, or specific laws they’ve enacted?

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/The World of Arenthia/Government Information/The Legal system/"}
 ---
 
-Arenthia’s legal system could reflect the diverse cultures, species, and magical influences of the world, while maintaining cohesion through the **Order of Arenthia’s overarching laws**. Here’s a breakdown of how such a legal system might function:
 
 ---
 
