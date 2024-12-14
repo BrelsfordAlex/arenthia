@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/The World of Arenthia/Welcome to Arenthia/","tags":["Arenthia","Obasa","Oceron","Ashea","Eshya","Itera","Astaria","Laznia","Continent","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/The World of Arenthia/Welcome to Arenthia/","tags":["Arenthia","Obasa","Oceron","Ashea","Eshya","Itera","Astaria","Laznia","Continent","gardenEntry"]}
 ---
 
 
