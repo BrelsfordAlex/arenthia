@@ -67,4 +67,4 @@
 	- From [[Nations of Arenthia/Eshya\|Eshya]] usually
 - Wraiths☆ 
 	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
-- Warforged made of Metal
+- Warforged made of Wood

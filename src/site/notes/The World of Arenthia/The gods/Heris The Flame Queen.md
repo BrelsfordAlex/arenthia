@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/The World of Arenthia/The gods/Heris The Flame Queen/","tags":["Heris","Diety","Fire"]}
 ---
 
-# About Heris The Flame Queen
+ # About Heris The Flame Queen
 ---
 **Pronunciation:** Hair-ehs
 **Holy Land Location:** [[Nations of Arenthia/Obasa\|Obasa]]

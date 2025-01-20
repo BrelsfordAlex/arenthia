@@ -25,3 +25,7 @@
 5. **Reflection of the Stars:**
     
     - At night, followers meditate by the water, reflecting on the stillness and vastness of the ocean. It is said that Zephus grants visions or insights to those who show true reverence.
+
+This festival has streamers, cups, everything that has the colors of [[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus The Abyssal Sovereign]] shades of dark blues and teals. 
+
+those who have proven to him to believe in his commandments during the past year since the last one of the festivals will be given an urge to walk into the sea and while they will not lose air, they will be able to breath under water while fully submerged and the god will feed this person or people images of his will or  allow them one question to be answered. 

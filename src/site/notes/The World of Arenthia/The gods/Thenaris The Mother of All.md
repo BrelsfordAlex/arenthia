@@ -12,7 +12,9 @@
 **Theh-nahr-ihs**
 
 ---
+"Thenaris Mother of all enemy of one. Life will be preserved and protected from those of death"
 
+![Pasted image 20250119215419.png](/img/user/Pasted%20image%2020250119215419.png)
 #### **Holy Land Location:**
 
 **[[Nations of Arenthia/Oceron\|Oceron]]** – A vast, lush land filled with ancient forests, crystal-clear lakes, and vibrant flora. Oceron is considered the heart of life itself, where the pulse of creation beats strongest. Thenaris’s presence is said to be woven into the very essence of this land, nurturing it with her divine energy.

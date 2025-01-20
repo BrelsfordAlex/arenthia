@@ -44,13 +44,6 @@ A Full Moon is seen as the start of a new month, to get to work and work till th
 - **Artisans and Artists:** Many choose to create something reflective of their emotions, such as painting or composing quiet music. These works are often kept private or shared only with close confidants.
 - **Fortune Seekers:** Some believe that dreams on the Night of Stillness are prophetic and keep journals by their beds to record them upon waking.
 
----
-
-### **Symbolism and Beliefs:**
-
-- **The Moonless Sky:** Represents the hidden parts of oneself and the mystery of life’s cycles.
-- **Still Water:** Bowls of water are often placed under the sky to reflect the few visible stars, symbolizing clarity and serenity.
-- **The Inner Flame:** Lanterns symbolize the light each person carries within, even in times of darkness.
 
 ---
 

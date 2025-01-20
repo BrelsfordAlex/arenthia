@@ -4,7 +4,7 @@
 
 ### **Before the Tree**
 
-The time before the **Life Tree** is shrouded in mystery, known only through fragmented legends and ancient relics scattered across Arenthia. This was an age when the gods, as they are revered today, were mortal adventurers—heroes struggling against the chaos of a world on the brink of collapse. The gods of the old world, long forgotten and unnamed, wielded immense power but were unable to maintain balance. In a desperate final act, they pooled their energy to create the **Life Tree**, sacrificing their existence to give rise to a new world.
+The time before **[[Nations of Arenthia/the Life Tree\|the Life Tree]]** is shrouded in mystery, known only through fragmented legends and ancient relics scattered across Arenthia. This was an age when the gods, as they are revered today, were mortal adventurers—heroes struggling against the chaos of a world on the brink of collapse. The gods of the old world, long forgotten and unnamed, wielded immense power but were unable to maintain balance. In a desperate final act, they pooled their energy to create the **Life Tree**, sacrificing their existence to give rise to a new world.
 
 The Life Tree did more than birth a new age—it elevated six heroes to godhood:
 	[[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera the Grave Father]]
@@ -16,13 +16,15 @@ The Life Tree did more than birth a new age—it elevated six heroes to godhood:
 
 When the Life Tree sprouted, its roots pierced through the dying old world, breaking it apart. The continents and lands of the old world were destroyed, giving birth to **Arenthia**, a realm shaped by the gods' ascension and the Life Tree's power.
 
+The new gods mortal past was a secret that the mortals of Arenthia would not be allowed to learn of.  The 6 gods 
+
 ---
 
 ### **The Gods Now**
 
-While the gods wield immense power, they rarely speak of their mortal pasts. There are whispers among scholars and worshippers that the holy lands they now govern—**[[Nations of Arenthia/Itera\|Itera]], [[Nations of Arenthia/Obasa\|Obasa]], [[Nations of Arenthia/Eshya\|Eshya]], [[Nations of Arenthia/Oceron\|Oceron]], [[Nations of Arenthia/Laznia\|Laznia]]**—were once the lands of their origin as mortals. However, the gods neither confirm nor deny these claims, leaving their mortal pasts cloaked in secrecy.
+While the gods wield immense power, they rarely speak of their mortal pasts. There are whispers among scholars and worshippers that the holy lands they now govern—**[[Nations of Arenthia/Itera\|Itera]], [[Nations of Arenthia/Obasa\|Obasa]], [[Nations of Arenthia/Eshya\|Eshya]], [[Nations of Arenthia/Oceron\|Oceron]], [[Nations of Arenthia/Laznia\|Laznia]] and [[Nations of Arenthia/Ashea\|Ashea]]**—were once the lands of their origin as mortals. However, the gods neither confirm nor deny these claims, leaving their mortal pasts cloaked in secrecy.
 
-**[[Nations of Arenthia/the Life Tree\|the Life Tree]]e's Connection:** The gods remain deeply tied to the Life Tree, drawing power from its existence. It is believed that their influence wanes the farther they move from its roots, anchoring their domains to specific continents.
+**[[Nations of Arenthia/the Life Tree\|the Life Tree]]'s Connection:** The gods remain deeply tied to the Life Tree, drawing power from its existence. It is believed that their influence wanes the farther they move from its roots, anchoring their domains to specific continents.
 
 **[[The World of Arenthia/About the Species on Arenthia/The Kor\|The Kor]] and [[The World of Arenthia/The Tetra Crystals\|the Tetra Crystals]]:**  
 When the Life Tree sprouted, it also gave birth to the **Kor**, beings of immense power tied to the **Tetra Crystals**, which radiate energy from the Tree itself. The Kor are seen as the Life Tree’s guardians, though their true purpose remains enigmatic.

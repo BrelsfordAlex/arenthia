@@ -12,7 +12,7 @@ The relationship between **Runic Magic** and **Root Magic** in Arenthia is compl
 
 #### **Root Magic: Harmony with the Life Tree**
 
-- Root Magic is **organic and instinctual**, relying on a deep connection to the Life Tree.
+- Root Magic is **organic and instinctual**, relying on a deep connection to the Life Tree. 
 - Practitioners of Root Magic often view their abilities as a natural extension of the world itself.
 - Root Magic is associated with nature, life, and primal forces, emphasizing balance and sustainability.
 

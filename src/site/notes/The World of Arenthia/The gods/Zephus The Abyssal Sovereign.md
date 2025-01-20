@@ -78,6 +78,13 @@ Zephus’s worship focuses on respect, offerings, and ensuring harmony with the 
 4. **Protection Ceremonies:**
     
     - Communities at risk of storms or floods gather to perform protection rituals, offering shells, pearls, or small crafted items to Zephus to appease his temper.
+5. The Commandments of Zephus
+	1. One will protect the sea from liter and blood
+	2. One must protect the sea life from extinction
+	3. One must respect the anger of the storms
+	4.  Follow the Guiding lights
+	5. Do not search for the lost treasures
+	6. Those who Worship [[The World of Arenthia/The gods/Lycus The Harvest King\|Lycus The Harvest King]] are seen as lesser
 
 ---
 
@@ -111,3 +118,9 @@ Zephus exerts a quiet but undeniable influence over the oceans and those who rel
 - **Protector of the Vulnerable:** Zephus has a soft spot for those who respect his waters, rewarding their reverence with guidance and safety. However, his wrath is swift for those who exploit or harm his domain.
 
 ---
+![Pasted image 20250119213440.png](/img/user/Pasted%20image%2020250119213440.png)
+
+**What people who worship him say:** Zephus the Abyssal sovereign may he protect us from the monsters of the sea forever and always
+
+**His Sigil**
+![Pasted image 20250119213859.png](/img/user/Pasted%20image%2020250119213859.png)

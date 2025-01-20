@@ -89,9 +89,9 @@ Root Magic is as much about lifestyle as it is about power. Practitioners follow
 
 #### **B. Seasonal Rites**
 
-- **Bloom Rites ([[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Spring\|Festival of Spring]]):** Encourage fertility and growth in the land.
-- **Harvest Celebrations ([[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Fall\|Festival of Fall]]):** Thank [[Nations of Arenthia/the Life Tree\|the Life Tree]] for its bounty.
-- **Winter Vigil ([[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Winter\|Festival of Winter]]):** Guard and protect the land during its time of rest.
+- **Bloom Rites ([[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Spring - The Bloomtide Revel\|Festival of Spring - The Bloomtide Revel]]):** Encourage fertility and growth in the land.
+- **Harvest Celebrations ([[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Fall- Harvest Moon Gala\|Festival of Fall- Harvest Moon Gala]]):** Thank [[Nations of Arenthia/the Life Tree\|the Life Tree]] for its bounty.
+- **Winter Vigil ([[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Winter- Frostveil\|Festival of Winter- Frostveil]]):** Guard and protect the land during its time of rest.
 
 #### **C. Tetra Crystal Ceremonies**
 

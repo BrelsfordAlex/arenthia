@@ -13,10 +13,10 @@
 
 ###### Dates of how long each season lasts 
 ---
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Spring\|Spring]]** would last from the 1st of Hearthhold to the 18th of Terra hold
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Summer\|Summer]]** would last from the 19th of Terrahold to the 36th of Ariahold
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Fall\|Fall]]**  would last from the 1nd of Ariahold to the 18th of Ignishold
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Winter\|Winter]]** would last from the 19th of Ignishold to the end of Lamiahold
+**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Spring - The Bloomtide Revel\|Spring]]** would last from the 1st of Hearthhold to the 18th of Terra hold
+**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Summer- Solstice Flame\|Summer]]** would last from the 19th of Terrahold to the 36th of Ariahold
+**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Fall- Harvest Moon Gala\|Fall]]**  would last from the 1nd of Ariahold to the 18th of Ignishold
+**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Winter- Frostveil\|Winter]]** would last from the 19th of Ignishold to the end of Lamiahold
 ###### The Moon Cycle
 ---
 **Full Moon** from the 1st to the 6th. The height is at the 3rd

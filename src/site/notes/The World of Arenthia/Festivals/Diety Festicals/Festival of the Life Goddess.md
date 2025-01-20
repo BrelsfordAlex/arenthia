@@ -26,3 +26,4 @@
 6. **Blessings of Life:**
     
     - Priests of Thenaris perform blessings for expectant mothers, newborns, and those beginning new ventures, invoking her favor for prosperity and growth
+
