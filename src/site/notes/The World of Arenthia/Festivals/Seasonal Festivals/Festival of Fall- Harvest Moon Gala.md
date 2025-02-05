@@ -21,4 +21,4 @@ During the day, if one cannot help around (I.E Children and the Elderly and thos
 - **Harvest Competitions:** Prizes are awarded for the largest pumpkin, the sweetest honey, or the most beautiful crafted goods.
 
 ###### Color Pallet 
-![Pasted image 20250119212647.png](/img/user/Pasted%20image%2020250119212647.png)
+![Pasted image 20250119212647.png](/img/user/Images/Pasted%20image%2020250119212647.png)

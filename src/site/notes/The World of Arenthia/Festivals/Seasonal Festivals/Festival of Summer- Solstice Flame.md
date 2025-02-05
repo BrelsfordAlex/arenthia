@@ -19,4 +19,4 @@ The people across Arenthia love this festival. It seems like a day long Solstice
 
 
 ###### The color Pallet
-![Pasted image 20250119211537.png](/img/user/Pasted%20image%2020250119211537.png)
+![Pasted image 20250119211537.png](/img/user/Images/Pasted%20image%2020250119211537.png)

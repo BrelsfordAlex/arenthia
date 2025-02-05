@@ -19,4 +19,4 @@ This can be compared to Christmas time in America with how it looks, Instead of 
 - **Veil of Light Ceremony:** Lanterns are floated on rivers or hung on trees, symbolizing guidance through the darkness.
 
 ###### The color pallet
-![colorkit.png](/img/user/colorkit.png)
+![colorkit.png](/img/user/Images/colorkit.png)

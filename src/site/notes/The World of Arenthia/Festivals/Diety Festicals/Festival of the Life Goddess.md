@@ -11,7 +11,13 @@
 1. **The Sixfold Celebration:**
     
     - The festival is divided into six events, each honoring an aspect of her domain: creation, unity, growth, preservation, love, and protection.
-2. **Tree of Life Ceremony:**
+	    - 1.
+	    - 2.
+	    - 3.
+	    - 4.
+	    - 5.
+	    - 6.
+1. **Tree of Life Ceremony:**
     
     - Communities plant a single grand tree during the festival, symbolizing the unity and strength of the people. The tree becomes a sacred landmark, cared for by the community.
 3. **Crafting Contests:**
