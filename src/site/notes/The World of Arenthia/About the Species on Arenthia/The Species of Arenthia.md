@@ -39,6 +39,7 @@
 	- Dark Fae are from [[Nations of Arenthia/Itera\|Death's Gate]]
 - Kobolds
 - Genasi
+	- they would reside in [[Nations of Arenthia/Itera\|Itera]]
 - Zombies
 	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
 - Skeletons
