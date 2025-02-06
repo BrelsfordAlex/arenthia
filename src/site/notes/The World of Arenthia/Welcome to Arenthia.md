@@ -25,12 +25,12 @@ Each god is a representation of a month on the [[The World of Arenthia/The Calen
 	[[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus]] Represents the month of Lochhold
 #### The Continents
 ---
-- [[Nations of Arenthia/Laznia\|Laznia]] ([[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]])
+- [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] ([[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]])
 - [[Nations of Arenthia/Oceron\|Oceron]] ([[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris]])
 - [[Nations of Arenthia/Obasa\|Obasa]] ([[The World of Arenthia/The gods/Heris The Flame Queen\|Heris The Flame Queen]])
 - [[Nations of Arenthia/Itera\|Itera]] ([[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus]])
 - [[Nations of Arenthia/Eshya\|Eshya]]([[The World of Arenthia/The gods/Lycus The Harvest King\|Lycus The Harvest King]])
-- [[Nations of Arenthia/Astaria\|Astaria]] (Godless)
+- [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] (Godless)
 - [[Nations of Arenthia/Ashea\|Ashea]]([[The World of Arenthia/The gods/Rania the Wind Mother\|Rania]])
 
 # Arenthia Map

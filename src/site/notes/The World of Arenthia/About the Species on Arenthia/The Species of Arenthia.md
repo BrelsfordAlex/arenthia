@@ -16,7 +16,7 @@
 		- From [[Nations of Arenthia/Oceron\|Yaa Serine]] Usually
 		- Decended from the life tree
 	- Dark Elves
-		- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+		- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 		- Decended from [[The World of Arenthia/The gods/Rania the Wind Mother\|Rania]] and [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]]
 - Giants
 	- [[Nations of Arenthia/Ashea\|Ashea]]
@@ -31,7 +31,7 @@
 		    - Sun dragon
 	- List of Custom dragon races
 		- Necrodragons
-			- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+			- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 		- 
 - Humans
 - Fae☆ 
@@ -41,31 +41,34 @@
 - Genasi
 	- they would reside in [[Nations of Arenthia/Itera\|Itera]]
 - Zombies
-	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 - Skeletons
-	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 - Minotaurs☆ 
 - Warforged made of Metal
 ###### Species (Custom/Nontraditional)
 - Vampires
-	-  From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+	-  From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 	- Not like traditional Vampires
 - [[The World of Arenthia/About the Species on Arenthia/The Kor\|The Kor]] / Fell-Kor (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
 - Druids / Satyrs / Dryads/ Faun
 - [[The World of Arenthia/About the Species on Arenthia/Centaurs\|Centaurs]]
 - Ghouls
-	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 - Kuo-Toa 
 - Marid 
 - Kraul
 - Mermen/Mermaids
 - The Naga
 - - Harpies
-	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 - Treemen☆ 
 	-  Usually resides in [[Nations of Arenthia/Itera\|Itera]] or [[Nations of Arenthia/Oceron\|Oceron]] 
 - Djinn/Jinn/Genies☆ 
 	- From [[Nations of Arenthia/Eshya\|Eshya]] usually
 - Wraiths☆ 
-	- From [[Nations of Arenthia/Astaria\|Astaria]] or [[Nations of Arenthia/Laznia\|Laznia]] usually
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 - Warforged made of Wood
+- Myconids
+- The Stitched
+	-  From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually

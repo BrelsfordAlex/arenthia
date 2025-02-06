@@ -4,13 +4,18 @@
 
 
 ---
-
+```chronos
+- [237~498] Aelindra Starbloom
+- [407~532] Thranis Shardveil
+- [420~501] Velindra Ashlight
+- [327~532] Zerath Quillshade
+```
 ### **1. Aelindra Starbloom**
 
 **Title:** Keeper of the Verdant Veil  
 **Magic Type:** Root Magic  
 **Affiliation:** Archdruid of Oceron  
-**Years Alive:** 16,030 - 16,140
+**Years Alive:** 237 ELT - 498 ELT
 
 **Details:**
 
@@ -26,7 +31,7 @@
 **Title:** The Arcane Architect  
 **Magic Type:** Arcane Magic  
 **Affiliation:** Founder of the Shardveil Academy, [[Nations of Arenthia/Itera\|Itera]]  
-**Years Alive:** 25,310 - Alive
+**Years Alive:** 407 ELT - Alive
 
 **Details:**
 
@@ -42,7 +47,7 @@
 **Title:** The Ember Oracle  
 **Magic Type:** Divine Magic ([[The World of Arenthia/The gods/Heris The Flame Queen\|Heris]])  
 **Affiliation:** High Priestess of [[Nations of Arenthia/Obasa\|Obasa]]  
-**Years Alive:** 27,500 - 27,590
+**Years Alive:** 420 ELT - 501 ELT
 
 **Details:**
 
@@ -57,7 +62,7 @@
 **Title:** The Psionic Whisperer  
 **Magic Type:** Psionic Magic  
 **Affiliation:** Nomadic Mystic of [[Nations of Arenthia/Ashea\|Ashea]]  
-**Years Alive:** 28,810 - Still Alive
+**Years Alive:** 327 ELT  - Still Alive
 
 **Details:**
 
@@ -73,7 +78,7 @@
 **Title:** The Eternal Scribe  
 **Magic Type:** Runic Magic  
 **Affiliation:** Artisan of [[Nations of Arenthia/Ashea\|Ashea]]  
-**Years Alive:** 12,040 - 12,130
+**Years Alive:** 32 ELT - 307 ELT
 
 **Details:**
 
@@ -89,7 +94,7 @@
 **Title:** Tidemaster of Itera  
 **Magic Type:** Root Magic and Divine Magic ([[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus]])  
 **Affiliation:** Temple of the Abyssal Sovereign  
-**Years Alive:** 27,100 - 27,200
+**Years Alive:** 266 ELT - 415 ELT
 
 **Details:**
 
@@ -105,7 +110,7 @@
 **Title:** The Ironroot Defender  
 **Magic Type:** Root Magic  
 **Affiliation:** Protector of [[Nations of Arenthia/Eshya\|Eshya]]  
-**Years Alive:** 28,600 - Still Alive
+**Years Alive:** 333 ELT - Still Alive
 
 **Details:**
 
@@ -121,7 +126,7 @@
 **Title:** The Galebinder  
 **Magic Type:** Root Magic and Psionic Magic  
 **Affiliation:** Sky Council of [[Nations of Arenthia/Ashea\|Ashea]]  
-**Years Alive:** 26,000 - 26,100
+**Years Alive:** 145 ELT - 190 ELT
 
 **Details:**
 
@@ -137,7 +142,7 @@
 **Title:** The Enlightened Smith  
 **Magic Type:** Runic and Arcane Magic  
 **Affiliation:** Iteran Enchanter’s Guild  
-**Years Alive:** 29,900 - Still Alive
+**Years Alive:** 500 ELT - Still Alive
 
 **Details:**
 
@@ -153,7 +158,7 @@
 **Title:** The Starseer  
 **Magic Type:** Divine Magic ([[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris]])  
 **Affiliation:** Temple of the Mother of All, Oceron  
-**Years Alive:** 25,600 - Still Alive
+**Years Alive:** 450 ELT - Still Alive
 
 **Details:**
 
@@ -168,7 +173,7 @@
 **Title:** The Icebinder  
 **Magic Type:** Root and Runic Magic  
 **Affiliation:** Protector of [[Nations of Arenthia/Obasa\|Obasa]]  
-**Years Alive:** 28,410 - 28,480
+**Years Alive:** 3 ELT - 153 ELT
 
 **Details:**
 
@@ -183,7 +188,7 @@
 **Title:** The Reflector  
 **Magic Type:** Psionic and Arcane Magic  
 **Affiliation:** Wandering Mage   
-**Years Alive:** 29,100 - 29,270
+**Years Alive:** 70 ELT - 320 ELT
 
 **Details:**
 

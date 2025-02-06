@@ -17,7 +17,7 @@ The Order is a symbol of collaboration and an enduring reminder of the devastati
 
 The following nations are members of the Order, each bringing their unique perspectives, resources, and cultures to the table:  
 
-- **[[Nations of Arenthia/Laznia\|Laznia]]:** Representing the Deadlands and their unique societal structure tied to Ulfera, Laznia often advocates for the rights of the undead and the preservation of burial traditions.  
+- **[[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]]:** Representing the Deadlands and their unique societal structure tied to Ulfera, Laznia often advocates for the rights of the undead and the preservation of burial traditions.  
 - **[[Nations of Arenthia/Oceron\|Oceron]]:** Known for its lush forests and spiritual Elven population, Oceron frequently pushes for environmental protections and preservation of natural resources.  
 - **[[Nations of Arenthia/Obasa\|Obasa]]:** A cold, fire-reliant nation, Obasa’s representatives often focus on trade and maintaining alliances to protect their vulnerable people from external threats and the harsh climate.  
 - **[[Nations of Arenthia/Itera\|Itera]]:** As the home of Zephus, Itera brings strong ties to water magic, often mediating disputes related to elemental resources and maritime trade.  

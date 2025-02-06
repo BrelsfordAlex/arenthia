@@ -8,7 +8,8 @@
    - Each month has 30 days, 6 weeks and 6 days of the week for a total of 216 days a year. 
    - The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 54 days. 
    - Years in this world started at the year 6. Every interval of 6 there is a massive festival  called [[The World of Arenthia/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]] which praises the passage of time within the 6 gods: [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera the Grave Father]], [[The World of Arenthia/The gods/Heris The Flame Queen\|Heris The Flame Queen]], [[The World of Arenthia/The gods/Lycus The Harvest King\|Lycus The Harvest King]], [[The World of Arenthia/The gods/Rania the Wind Mother\|Rania the Wind Mother]], [[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus The Abyssal Sovereign]] and [[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris The Mother of All]]
-	   - the current year is ***Year 30,000***, since it is divisible by 6 it will hold a festival on the 1st of each month which also marks the 5000th cycle of the passage of the 6
+	   - the current year is ***Year 532*** in the **Era of the Life Tree**
+	  Every year that is Divisible by 6 holds a since  festival on the 1st of each month [[The World of Arenthia/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]]
    
 
 ###### Dates of how long each season lasts 
@@ -146,7 +147,7 @@
 
 ##### About Lamiahold
 ---
-Lamiahold is the passage of the Grave Father, [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]]. This is the month where he was seen to rise to power on the 36th of Lamiahold in the year 3.  He Honors those that have passed and those who will come to pass. During this month if you end up visiting his home land of [[Nations of Arenthia/Laznia\|Laznia]] you would see his worshipers dressing up like him in solidarity of his pain. 
+Lamiahold is the passage of the Grave Father, [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]]. This is the month where he was seen to rise to power on the 36th of Lamiahold in the year 3.  He Honors those that have passed and those who will come to pass. During this month if you end up visiting his home land of [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] you would see his worshipers dressing up like him in solidarity of his pain. 
 
 During the [[The World of Arenthia/Festivals/Festival of the Moons\|Festival of the Moons]] for this month it is expected that everyone will have one green lantern in their window if they lost someone in the past year and a blue one if they lost some one in this month. Those with a Blue lantern will receive a Black Rose at their doorstep as if to say that person's spirit has been accepted into the after life. Those with a green lantern receive a white rose to signify their loved one is doing ok and to remind them to be strong
 

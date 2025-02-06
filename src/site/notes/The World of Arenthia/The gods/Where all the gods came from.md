@@ -22,7 +22,7 @@ The new gods mortal past was a secret that the mortals of Arenthia would not be 
 
 ### **The Gods Now**
 
-While the gods wield immense power, they rarely speak of their mortal pasts. There are whispers among scholars and worshippers that the holy lands they now govern—**[[Nations of Arenthia/Itera\|Itera]], [[Nations of Arenthia/Obasa\|Obasa]], [[Nations of Arenthia/Eshya\|Eshya]], [[Nations of Arenthia/Oceron\|Oceron]], [[Nations of Arenthia/Laznia\|Laznia]] and [[Nations of Arenthia/Ashea\|Ashea]]**—were once the lands of their origin as mortals. However, the gods neither confirm nor deny these claims, leaving their mortal pasts cloaked in secrecy.
+While the gods wield immense power, they rarely speak of their mortal pasts. There are whispers among scholars and worshippers that the holy lands they now govern—**[[Nations of Arenthia/Itera\|Itera]], [[Nations of Arenthia/Obasa\|Obasa]], [[Nations of Arenthia/Eshya\|Eshya]], [[Nations of Arenthia/Oceron\|Oceron]], [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] and [[Nations of Arenthia/Ashea\|Ashea]]**—were once the lands of their origin as mortals. However, the gods neither confirm nor deny these claims, leaving their mortal pasts cloaked in secrecy.
 
 **[[Nations of Arenthia/the Life Tree\|the Life Tree]]'s Connection:** The gods remain deeply tied to the Life Tree, drawing power from its existence. It is believed that their influence wanes the farther they move from its roots, anchoring their domains to specific continents.
 

@@ -24,7 +24,7 @@ These Centaurs have the spots of any species of Giraffe, even on their non-Giraf
 These Centaurs are very welcoming and kind; though if they perceive anyone as hostile the older males will attack without warning. They also tend to live about as long as their other half (Example: if the other half is a human then they would live about as long as humans)
 
 ###### the history of Giraffe Centaurs
-There are rumors among the centaurs that the Giraffe Centaurs existed before the tree; though the records of then are long sealed away. The oldest of these Centaurs is about 15,000, with its other half being an elf. Her name is [[Yania the Wise One\|Yania the Wise One]] she is a nomad that wanders through [[Nations of Arenthia/Eshya\|Eshya]] and [[Nations of Arenthia/Ashea\|Ashea]]. Many centaurs seek her help when they are having issues. 
+There are rumors among the centaurs that the Giraffe Centaurs existed before the tree; though the records of then are long sealed away. The oldest of these Centaurs is about 3,247 at minimum, being the oldest elf/elf hybrid. Her name is [[The World of Arenthia/Notable People (Still Alive)/Yania the Wise One\|Yania the Wise One]] she is a nomad that wanders through [[Nations of Arenthia/Eshya\|Eshya]] and [[Nations of Arenthia/Ashea\|Ashea]]. Many centaurs seek her help when they are having issues. 
 
 ────────────────────────────────────
 #### Normal Horse Centaurs
