@@ -48,5 +48,3 @@ This is official seal of Arenthia. It has a phoenix representing the rebirth of 
 While this currency is accepted continent wide, each nation has their own way of handling currency and trades. that national currency is only accepted within that nation and its allies. 
 
 
-# Arenthia History
----

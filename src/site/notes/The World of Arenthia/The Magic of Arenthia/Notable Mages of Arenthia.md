@@ -9,6 +9,14 @@
 - [407~532] Thranis Shardveil
 - [420~501] Velindra Ashlight
 - [327~532] Zerath Quillshade
+- [32~307] Kaelith Runeforge
+- [266~415] Serathyn Deepcurrent
+- [333~532]Lorath Ironbark
+- [145~190] Myrantha Windsong
+- [500~532] Darvyn Sunforge
+- [37~66] Enara Lightveil
+- [3~153] Isalyn Frostbloom
+- [70~320] Varinth "The Mirrorborn" Arken
 ```
 ### **1. Aelindra Starbloom**
 
@@ -158,7 +166,7 @@
 **Title:** The Starseer  
 **Magic Type:** Divine Magic ([[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris]])  
 **Affiliation:** Temple of the Mother of All, Oceron  
-**Years Alive:** 450 ELT - Still Alive
+**Years Alive:** 37 ELT - 66 ELT
 
 **Details:**
 

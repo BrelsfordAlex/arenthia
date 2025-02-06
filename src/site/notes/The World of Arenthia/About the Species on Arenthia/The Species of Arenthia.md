@@ -70,5 +70,5 @@
 	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
 - Warforged made of Wood
 - Myconids
-- The Stitched
+- [[The World of Arenthia/About the Species on Arenthia/The Stitched\|The Stitched]]
 	-  From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
