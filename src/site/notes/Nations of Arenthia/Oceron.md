@@ -4,7 +4,7 @@
 
 # The map of Oceron
 ---
-![Oceron.jpg](/img/user/Images/Oceron.jpg)
+![Oceron.jpg](/img/user/z%20Images/Oceron.jpg)
 
 # The Currency of Oceron
 ---

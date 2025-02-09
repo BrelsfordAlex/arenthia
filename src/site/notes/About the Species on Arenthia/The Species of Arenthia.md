@@ -1,0 +1,74 @@
+---
+{"dg-publish":true,"permalink":"/About the Species on Arenthia/The Species of Arenthia/","tags":["Species"]}
+---
+
+*This list is of all the pureblooded species but each individual one (Besides the ones marked with a ☆  can be halfbreeds*
+
+###### Usual Species (Traditional)
+- The Underground
+	- These species are all considered Dwarves
+	- They all like to live in colder, more underground climates
+	- Usually from [[Nations of Arenthia/Obasa\|Obasa]]
+		- Gnomes
+		- Goblins
+- Elves
+	- High Elves 
+		- From [[Nations of Arenthia/Oceron\|Yaa Serine]] Usually
+		- Decended from the life tree
+	- Dark Elves
+		- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+		- Decended from [[The gods/Rania the Wind Mother\|Rania]] and [[The gods/Ulfera the Grave Father\|Ulfera]]
+- Giants
+	- [[Nations of Arenthia/Ashea\|Ashea]]
+- Dragons
+	- All Species of dragons in D&D can be found across Havar
+		- [[The World of Arenthia/Welcome to Arenthia\|Welcome to Arenthia]]'s Main dragon species from this list are  
+		    - Faerie dragon
+		    - Metallic dragon
+		    - Moon dragon
+		    - Sea serpent
+		    - Shadow dragon
+		    - Sun dragon
+	- List of Custom dragon races
+		- Necrodragons
+			- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+		- 
+- Humans
+- Fae☆ 
+	- Usually resides in [[Nations of Arenthia/Itera\|Itera]] 
+	- Dark Fae are from [[Nations of Arenthia/Itera\|Death's Gate]]
+- Kobolds
+- Genasi
+	- they would reside in [[Nations of Arenthia/Itera\|Itera]]
+- Zombies
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+- Skeletons
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+- Minotaurs☆ 
+- Warforged made of Metal
+###### Species (Custom/Nontraditional)
+- Vampires
+	-  From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+	- Not like traditional Vampires
+- [[About the Species on Arenthia/The Kor\|The Kor]] / Fell-Kor (Race Created by [my partner Turn2frog](https://www.dndbeyond.com/members/_Turn2Frog_))☆ 
+- Druids / Satyrs / Dryads/ Faun
+- [[About the Species on Arenthia/Centaurs\|Centaurs]]
+- Ghouls
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+- Kuo-Toa 
+- Marid 
+- Kraul
+- Mermen/Mermaids
+- The Naga
+- - Harpies
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+- Treemen☆ 
+	-  Usually resides in [[Nations of Arenthia/Itera\|Itera]] or [[Nations of Arenthia/Oceron\|Oceron]] 
+- Djinn/Jinn/Genies☆ 
+	- From [[Nations of Arenthia/Eshya\|Eshya]] usually
+- Wraiths☆ 
+	- From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually
+- Warforged made of Wood
+- Myconids
+- [[About the Species on Arenthia/The Stitched\|The Stitched]]
+	-  From [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] or [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] usually

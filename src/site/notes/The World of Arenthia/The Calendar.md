@@ -5,19 +5,19 @@
 
 # About the Calendar
 ---
-   - Each month has 30 days, 6 weeks and 6 days of the week for a total of 216 days a year. 
+   - Each month has 30 days, 6 weeks and 6 days of the week for a total of 216 days a year.  
    - The seasons are like Spring, Summer, Fall Winter. Each seasons lasts about 54 days. 
-   - Years in this world started at the year 6. Every interval of 6 there is a massive festival  called [[The World of Arenthia/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]] which praises the passage of time within the 6 gods: [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera the Grave Father]], [[The World of Arenthia/The gods/Heris The Flame Queen\|Heris The Flame Queen]], [[The World of Arenthia/The gods/Lycus The Harvest King\|Lycus The Harvest King]], [[The World of Arenthia/The gods/Rania the Wind Mother\|Rania the Wind Mother]], [[The World of Arenthia/The gods/Zephus The Abyssal Sovereign\|Zephus The Abyssal Sovereign]] and [[The World of Arenthia/The gods/Thenaris The Mother of All\|Thenaris The Mother of All]]
+   - Years in this world started at the year 6. Every interval of 6 there is a massive festival  called [[Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]] which praises the passage of time within the 6 gods: [[The gods/Ulfera the Grave Father\|Ulfera the Grave Father]], [[The gods/Heris The Flame Queen\|Heris The Flame Queen]], [[The gods/Lycus The Harvest King\|Lycus The Harvest King]], [[The gods/Rania the Wind Mother\|Rania the Wind Mother]], [[The gods/Zephus The Abyssal Sovereign\|Zephus The Abyssal Sovereign]] and [[The gods/Thenaris The Mother of All\|Thenaris The Mother of All]]
 	   - the current year is ***Year 532*** in the **Era of the Life Tree**
-	  Every year that is Divisible by 6 holds a since  festival on the 1st of each month [[The World of Arenthia/Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]]
+	  Every year that is Divisible by 6 holds a since  festival on the 1st of each month [[Festivals/The Festival of the Passage of the 6\|The Festival of the Passage of the 6]]
    
 
 ###### Dates of how long each season lasts 
 ---
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Spring - The Bloomtide Revel\|Spring]]** would last from the 1st of Hearthhold to the 18th of Terra hold
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Summer- Solstice Flame\|Summer]]** would last from the 19th of Terrahold to the 36th of Ariahold
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Fall- Harvest Moon Gala\|Fall]]**  would last from the 1nd of Ariahold to the 18th of Ignishold
-**[[The World of Arenthia/Festivals/Seasonal Festivals/Festival of Winter- Frostveil\|Winter]]** would last from the 19th of Ignishold to the end of Lamiahold
+**[[Festivals/Seasonal Festivals/Festival of Spring - The Bloomtide Revel\|Spring]]** would last from the 1st of Hearthhold to the 18th of Terra hold
+**[[Festivals/Seasonal Festivals/Festival of Summer- Solstice Flame\|Summer]]** would last from the 19th of Terrahold to the 36th of Ariahold
+**[[Festivals/Seasonal Festivals/Festival of Fall- Harvest Moon Gala\|Fall]]**  would last from the 1nd of Ariahold to the 18th of Ignishold
+**[[Festivals/Seasonal Festivals/Festival of Winter- Frostveil\|Winter]]** would last from the 19th of Ignishold to the end of Lamiahold
 ###### The Moon Cycle
 ---
 **Full Moon** from the 1st to the 6th. The height is at the 3rd
@@ -147,8 +147,8 @@
 
 ##### About Lamiahold
 ---
-Lamiahold is the passage of the Grave Father, [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera]]. This is the month where he was seen to rise to power on the 36th of Lamiahold in the year 3.  He Honors those that have passed and those who will come to pass. During this month if you end up visiting his home land of [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] you would see his worshipers dressing up like him in solidarity of his pain. 
+Lamiahold is the passage of the Grave Father, [[The gods/Ulfera the Grave Father\|Ulfera]]. This is the month where he was seen to rise to power on the 36th of Lamiahold in the year 3.  He Honors those that have passed and those who will come to pass. During this month if you end up visiting his home land of [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]] you would see his worshipers dressing up like him in solidarity of his pain. 
 
-During the [[The World of Arenthia/Festivals/Festival of the Moons\|Festival of the Moons]] for this month it is expected that everyone will have one green lantern in their window if they lost someone in the past year and a blue one if they lost some one in this month. Those with a Blue lantern will receive a Black Rose at their doorstep as if to say that person's spirit has been accepted into the after life. Those with a green lantern receive a white rose to signify their loved one is doing ok and to remind them to be strong
+During the [[Festivals/Festival of the Moons\|Festival of the Moons]] for this month it is expected that everyone will have one green lantern in their window if they lost someone in the past year and a blue one if they lost some one in this month. Those with a Blue lantern will receive a Black Rose at their doorstep as if to say that person's spirit has been accepted into the after life. Those with a green lantern receive a white rose to signify their loved one is doing ok and to remind them to be strong
 
-During [[The World of Arenthia/Festivals/Diety Festicals/Festival of the Spirit God\|Festival of the Spirit God]] on the 36th of Lamiahold, it is a way for the living to remember the dead and for the undead to gather and Praise [[The World of Arenthia/The gods/Ulfera the Grave Father\|Ulfera the Grave Father]] for giving them life. 
+During [[Festivals/Diety Festicals/Festival of the Spirit God\|Festival of the Spirit God]] on the 36th of Lamiahold, it is a way for the living to remember the dead and for the undead to gather and Praise [[The gods/Ulfera the Grave Father\|Ulfera the Grave Father]] for giving them life. 

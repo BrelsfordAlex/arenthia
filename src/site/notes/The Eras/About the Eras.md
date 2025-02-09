@@ -8,5 +8,5 @@ There are 4 eras in history, though some people may be older than this.
 **The Second Era**-[[The Eras/The Era of Gods\|The Era of Gods]] Abbreviated EG
 **The First Era**-[[The Eras/The Era of Wylds\|The Era of Wylds]] Abbreviated EW
 
-though in the current era, all knowledge of the previous eras has been lost or magically bound to never be thought about or spoken about in any form. this includes written. there is one exception and that is for [[The World of Arenthia/Notable People (Still Alive)/the Library Leader\|the Library Leader]] and The Professor Ar’Ker’Mar of the House of Runes in [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]]. Though they can only speak about it. 
+though in the current era, all knowledge of the previous eras has been lost or magically bound to never be thought about or spoken about in any form. this includes written. there is one exception and that is for [[Notable People (Still Alive)/the Library Leader\|the Library Leader]] and The Professor Ar’Ker’Mar of the House of Runes in [[Nations of Arenthia/Laznia and Astaria\|Laznia and Astaria]]. Though they can only speak about it. 
 

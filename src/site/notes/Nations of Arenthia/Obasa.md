@@ -5,7 +5,7 @@
 # The map of Obasa
 ---
 
-![Obasa.jpg](/img/user/Images/Obasa.jpg)
+![Obasa.jpg](/img/user/z%20Images/Obasa.jpg)
 
 
 
