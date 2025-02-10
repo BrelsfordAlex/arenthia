@@ -44,7 +44,7 @@ These are just the atypical centaurs you will find about almost all the continen
 ![FIhcLf5X0AIIgwH.jpg](/img/user/z%20Images/FIhcLf5X0AIIgwH.jpg)
 ![83297a92dd0e3fc83dc2087d70529bf2.jpg](/img/user/z%20Images/83297a92dd0e3fc83dc2087d70529bf2.jpg)
 ![d579hss-d7c81f8f-1593-4e17-979b-cbfe77f0f876 1.jpg](/img/user/z%20Images/d579hss-d7c81f8f-1593-4e17-979b-cbfe77f0f876%201.jpg)
-![images.jpg](/img/user/z%20Images/images.jpg)
+![images 1.jpg](/img/user/z%20Images/images%201.jpg)
 ![1662823-e1a.png](/img/user/z%20Images/1662823-e1a.png)
 
 
