@@ -131,5 +131,3 @@ A Full Moon is seen as the start of a new month, to get to work and work till th
 - Artisans work under large communal moon mirrors—polished surfaces that reflect and enhance the moonlight—to finish projects, often leading to market fairs the following day.
 
 ---
-
-The Moonlit Muster is a lively and industrious festival that balances individual effort with community support. Would you like details on specific songs, notable stories, or famous participants associated with this festival?

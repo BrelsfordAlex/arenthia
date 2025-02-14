@@ -16,7 +16,7 @@
     - Trade, travel, and inter-nation agreements.
     - Protection of the Life Tree and its influence.
 - Enforcement:
-    - **[[Government Information/The Peacekeepers\|The Peacekeepers]]** act as neutral enforcers, ensuring compliance with global laws.
+    - **[[Cults and other groups/The Guild and The Mercinaries\|The Guild and The Mercinaries]]** act as neutral enforcers, ensuring compliance with global laws.
     - Violations are brought before the Order for mediation or trial by the **High Council.**
 
 #### **B. National Laws (Individual Nations)**
