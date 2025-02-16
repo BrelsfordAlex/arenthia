@@ -61,3 +61,7 @@ Top Crimes in your area:
 	- Remoraz
 	- Roc
 
+# Mercenary Guilds
+- "The Wizard Hunters" 
+	- A group of wizards that specialize in different schools of magic and take on requests that are about finding people or even killing some person or group. Each Wizard works alone unless the quest is S rank or higher.
+- 
