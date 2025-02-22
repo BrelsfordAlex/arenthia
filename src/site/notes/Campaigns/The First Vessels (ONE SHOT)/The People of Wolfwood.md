@@ -1,0 +1,173 @@
+---
+{"dg-publish":true,"permalink":"/Campaigns/The First Vessels (ONE SHOT)/The People of Wolfwood/","tags":["campaign","oneshot","TheFirstVessels"]}
+---
+
+
+- Etti Nadol
+	- **Species:** Myconids
+	- **Gender:** Male 
+	- **Age:** 54
+	- **Job:** Farmer/baker/town idiot
+	- **Looks:** ![kz7pMRC.jpg](/img/user/z%20Images/kz7pMRC.jpg)
+	- **Personality:**
+		- Kinda dumb and slow to talk.
+		- Talks in your mind
+		- knows alot about the secrets of the town because "the mushrooms talk"
+			- this could lead to the party discovering how many mushrooms are around
+- Fari Bronzehide
+	- **Species:** Giraffe Centaur
+	- **Gender:** Female
+	- **Age:** 308
+	- **Job:** Bartender
+	- **Looks:** ![tumblr_c4a1d3b948ce87ace7395848017efc11_d2a7f1d9_540.jpg](/img/user/z%20Images/tumblr_c4a1d3b948ce87ace7395848017efc11_d2a7f1d9_540.jpg)
+	- **Personality:**
+		- She has an even temper.
+		- She is very cowardly.
+		- She likes to know how things work.
+		- She has a pet dragon hatchling companion named Molly.
+	- **Other:** She is being harassed about a threat of impending doom her dragon brings
+- William "Bill" Nightseer
+	- **Species:** Zebra Centaur 
+	- **Gender:** Male
+	- **Age:** 80
+	- **Job:** shopkeeper
+	- **Looks:** ![tumblr_55d4273d2e4494f6d10c9a1d9dba0438_c49f0d6a_1280.png](/img/user/z%20Images/tumblr_55d4273d2e4494f6d10c9a1d9dba0438_c49f0d6a_1280.png)
+	- **Personality:**
+		- He is constantly trying to outdo himself.
+		- He is a perfectionist.
+		- He wears cheap spectacles.
+		- He sporadically quotes his father.
+- Luanda Mistsplitter
+	- **Species:** Giraffe Centaur
+	- **Gender:** Female
+	- **Age:** 23 in human years
+	- **Job:** Mercinary
+	- **Looks:** 
+		- She has a bald head and brown eyes.
+		- She has rough pink skin.
+		- She stands 147cm (4'9") tall and has a muscular build.
+		- She has a soft, extremely forgettable face.
+		- She smells slightly of cookies.![ZvAuqvo.png](/img/user/z%20Images/ZvAuqvo.png)
+	- **Personality:**
+		- She quietly worships [[The gods/Thenaris The Mother of All\|Thenaris]], Goddess of the moon, stars, navigation, prophecy, questers, lycanthropes. 
+		- She is very benevolent.
+		- She is extremely conceited.
+		- She used to be bullied as a child and learned to fight so that it wouldn't happen again.
+		- She frequently thinks aloud
+	- **Other:**
+		- she is single, bicurious
+		- She is a wereboar
+		- STATBLOCK
+			![Pasted image 20250221125302.png](/img/user/z%20Images/Pasted%20image%2020250221125302.png)
+
+
+- Va-tnilaus
+	- **Species:** Kobold
+	- **Gender:** Male
+	- **Age:** 19 (16 in kobold)
+	- 3 ft 2
+	- **Job:** Town prankster
+	- **Looks:** ![[Kobold-zobecker-scout.avif]]
+	- **Personality:**
+		- doesn't worship any god.
+		- always plays fair.
+		- constantly looks for the loophole.
+		- sees fighting as a solution to any problem.
+		- secretly wants to become the ruler of the city.
+		- looks up to [[Notable People (Still Alive)/Yania the Wise One\|Yania the Wise One]] his mother after his original parents died 
+		- plays harmless pranks
+	- **Other:** He is part of a secret rebellious organization who wants to take control of the government.
+- Kelvin Woodleaf
+	- **Species:** Wood Warforged
+	- **Gender:** Eh?
+	- **Age:** 32 in human
+	- **Job:** Forest guarder
+	- **Looks:** ![images 1.jpg](/img/user/z%20Images/images%201.jpg)
+	- **Personality:**
+		- He is a pacifist.
+		- He rarely speaks.
+		- He makes anyone he speaks to feel like the most important person in the world.
+		- He lies poorly on purpose.
+- Donald Darkdraft
+	- **Species:** Half Elf Half Fae
+	- **Gender:** Male
+	- **Age:** 47 in Elf
+	- **Job:** Forester
+	- **Looks:** 
+		- ![tumblr_nwkgmxFdm01rfow3no1_1280.jpg](/img/user/z%20Images/tumblr_nwkgmxFdm01rfow3no1_1280.jpg)
+	- **Personality:**
+		- He will always prioritize his needs.
+		- He is very cowardly.
+		- He will never take a life if given the choice.
+		- He argues about everything.
+		- He used to be a Fae slave and has markings and brands to show it
+-  Clifton Commonbrook
+	- **Species:** Naga
+	- **Gender:** Male
+	- **Age:** 502 (in human thats 22)
+	- **Job:** Merchant
+	- **Looks:** ![Etsfk1NXcAY04an.jpg](/img/user/z%20Images/Etsfk1NXcAY04an.jpg)
+	- **Personality:**
+		- He is very cynical.
+		- He is very greedy.
+		- He likes to know how things work.
+		- He loves discovering new mysteries and solving them.
+-  Ryia Woodleaf
+	- **Species:** Deer Centaur
+	- **Gender:** Female
+	- **Age:** 16
+	- **Job:** Merchant
+	- **Looks:** ![art-comm-cervitaur-girl-i-made-for-a-client-im-absolutely-v0-xtpfeksotrhc1.webp](/img/user/z%20Images/art-comm-cervitaur-girl-i-made-for-a-client-im-absolutely-v0-xtpfeksotrhc1.webp)
+	- **Personality:**
+		- She is very focused.
+		- She is not very obstinate.
+		- She has a tendency to steal curious items to study them.
+		- She intermittently quotes proverbs.
+- Cedany Stonesworn
+	- **Species:** Human
+	- **Gender:** Non binary (she/they) 
+	- **Age:** 82
+	- **Job:** Priest
+	- **Looks:** ![17e6944fe360fc4ae0cbfdf0b04a4087.jpg](/img/user/z%20Images/17e6944fe360fc4ae0cbfdf0b04a4087.jpg)
+	- **Personality:**
+		- She is a very good diplomat and always works towards resolution of conflict.
+		- She has no self-confidence.
+		- She spends a lot of time studying other religions.
+		- She reacts violently to weapons.
+		- She works hard to play hard afterwards.
+- Destrian Serpentwind
+	- **Species:** Human
+	- **Gender:** Male
+	- **Age:** 87
+	- **Job:** Mayor
+	- **Looks:** ![637662846762443652.jpeg](/img/user/z%20Images/637662846762443652.jpeg)
+	- **Personality:**
+		- He is always very excited.
+		- He falls in and out of love easily.
+		- He has a pet pidgeon companion named Bob
+		- In love with Cedany Stonesworn
+- Francis Farlight
+	- **Species:** Minotaur
+	- **Gender:** Eh? Prefers They/Them
+	- **Age:** 32
+	- **Job:** Mercenary
+	- **Looks:** ![697075399ea6572b437da18a18d9fafb.jpg](/img/user/z%20Images/697075399ea6572b437da18a18d9fafb.jpg)
+	- **Personality:**
+		- He is a very good diplomat and always works towards resolution of conflict.
+		- He can't stand laziness.
+		- He considers everyone else as idiots.
+		- He believes in destiny.
+		- Veteran
+	- ![Pasted image 20250221133019.png](/img/user/z%20Images/Pasted%20image%2020250221133019.png)
+- Trigani Elkini
+	- **Species:** Dwarf
+	- **Gender:** Female
+	- **Age:** 66
+	- **Job:** Mercenary
+	- **Looks:** ![il_fullxfull.4964084883_cd8j.webp](/img/user/z%20Images/il_fullxfull.4964084883_cd8j.webp)
+	- **Personality:**
+		- She is prone to violence.
+		- She can't stand dragons.
+		- She has a solution for everything.
+		- She sporadically lies.
+	- ![Pasted image 20250221132918.png](/img/user/z%20Images/Pasted%20image%2020250221132918.png)
