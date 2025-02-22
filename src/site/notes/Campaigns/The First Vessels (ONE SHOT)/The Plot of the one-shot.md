@@ -91,7 +91,7 @@
 
 **People they could meet of importance in the village**
 - [[Notable People (Still Alive)/the Library Leader\|the Library Leader]]
-- [[The Order of V \|Rohan Maywaters or Peregrin Elgrove]]
+- [[Cults and other groups/The Order of V\|The Order of V]]
 - Anyone in [[Campaigns/The First Vessels (ONE SHOT)/The People of Wolfwood\|The People of Wolfwood]]
 
 ## The Middle
